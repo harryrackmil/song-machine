@@ -1,0 +1,118 @@
+bpm: 60
+granularity: 0.125
+loops: 1.0
+
+tracks:
+  - instrument:
+      name: "Bell"
+    loops: 44
+    pan: 5
+    notes: |
+      (A) x2
+      (A) x2
+      -
+      (A) x2
+      -
+      (A) x2
+      -
+      -
+      (A5) x2
+      -
+      -
+  - instrument:
+      name: "SawTooth"
+      decay: 0.1
+    loops: 5.5
+    level: 0.1
+    notes: |
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (A3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+      (F3) x2
+  - instrument:
+      name: "SinMachine"
+    offset: 16
+    loops: 4
+    notes: |
+      (A2) x48
+      (B2) x8
+      (C3) x8
+      (F2) x64
+  - instrument:
+      name: "SinMachine"
+    offset: 48
+    loops: 2
+    notes: |
+      -
+      -
+      -
+      -
+      (D5) x2
+      (C5) x2
+      (D5) x2
+      (C5) x2
+      (B4) x2
+      (C5) x48
+      (B4) x2
+      (C5) x64
+

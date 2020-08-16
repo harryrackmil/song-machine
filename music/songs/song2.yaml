@@ -1,0 +1,170 @@
+bpm: 60
+granularity: 0.25
+loops: 1.0
+
+tracks:
+  - instrument:
+        name: "SawTooth"
+        attack: 0.01
+        decay: 0.1
+        sustain: 0.8
+        release: 0.1
+    offset: 0
+    level: 0.2
+    loops: 4
+    notes: |
+      C
+      E
+      G
+      (C,E,G) x2
+      C5
+      E5
+      G5
+      (C5,E5,G5) x4
+      (C5,E5,G5) x4
+      G5,C6
+      E5,E6
+      C5,G6
+      (C,E,G) x2
+      C5,G6
+      E5,E6
+      G5,C6
+      (C5,E5,G5) x4
+      (C5,E5,G5) x4
+      F
+      A
+      C5
+      (F,A,C5) x2
+      F5
+      A5
+      C6
+      (F5,A5,C6) x4
+      (F5,A5,C6) x4
+      F
+      A
+      C5
+      (F,A,C5) x2
+      F5,C7
+      A5,A6
+      C6,F6
+      (F5,A5,C6) x4
+      (F5,A5,C6) x4
+  - instrument:
+      name: "Bell"
+    offset: 16
+    loops: 24
+    level: 3.0
+    pan: 5
+    notes: |
+      -
+      C6
+      C6
+      -
+      C6
+      -
+      C6
+      -
+  - instrument:
+      name: "SinMachine"
+      attack: 0.5
+      release: 0.25
+    offset: 32
+    loops: 3.0
+    level: 0.5
+    pan: -10
+    notes: |
+      (E5) x16
+      (C5) x16
+      (F5) x32
+  - instrument:
+      name: "SinMachine"
+      attack: 0.5
+      release: 0.25
+    offset: 32
+    loops: 3.0
+    level: 0.5
+    pan: 10
+    notes: |
+      (E3) x32
+      (F3) x32
+  - instrument:
+      name: "SinMachine"
+    offset: 16
+    loops: 3
+    level: 0.05
+    pan: -5
+    notes: |
+      C3
+      G3
+      C3
+      G3
+      C3
+      G3
+      C3
+      G3
+      C3
+      G3
+      C3
+      G3
+      C3
+      G3
+      C3
+      G3
+      C3
+      G3
+      C3
+      G3
+      C3
+      G3
+      C3
+      G3
+      C3
+      G3
+      C3
+      G3
+      C3
+      G3
+      C3
+      G3
+      F3
+      C4
+      F3
+      C4
+      F3
+      C4
+      F3
+      C4
+      F3
+      C4
+      F3
+      C4
+      F3
+      C4
+      F3
+      C4
+      F3
+      C4
+      F3
+      C4
+      F3
+      C4
+      F3
+      C4
+      F3
+      C4
+      F3
+      C4
+      F3
+      C4
+      F3
+      C4
+  - instrument:
+      name: "SinMachine"
+      attack: 0.25
+      release: 0.05
+    offset: 72
+    loops: 1.0
+    level: 0.75
+    notes: |
+      (C6) x16
+      (A5) x16
